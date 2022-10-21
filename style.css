@@ -30,7 +30,8 @@ a {
     font-weight: 600;
     font-size: 48px;
     line-height: 59px;
-    color: #442323;
+    /*color: #442323;*/
+    color: #f7f0f0;
     margin-bottom: 16px;
 }
 
@@ -86,7 +87,8 @@ a {
     font-weight: 600;
     font-size: 64px;
     line-height: 70px;
-    color: #704308;
+    /*color: #704308;*/
+    color: #e9972b;
     margin-top: 63px;
     margin-bottom: 16px;
     width: 792px;
